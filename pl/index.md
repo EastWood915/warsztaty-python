@@ -1,4 +1,8 @@
-# It works! ;-)
+# Warsztaty z podstaw programowania
+Witaj! Na tej stronie dowiesz się jak przygotować swój komputer do zajęć. Wykonaj proszę uważnie wszystkie poniższe kroki, a w razie problemów nie wahaj się poprosić o pomoc! Możesz wysyłać swoje pytania na Discordzie lub na mojego maila.
+
+Powodzenia i do zobaczenia!
+Wojtek
 
 
 ## Section 1
