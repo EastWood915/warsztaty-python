@@ -5,13 +5,29 @@ Powodzenia i do zobaczenia!
 Wojtek
 
 
-## Section 1
+## Discord
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis.
+Zacznij od dołączenia do serwera Discord, abyś mógł/mogła zadawać pytania w razie problemów.
+Jeśli nie posiadasz Discorda, zainstaluj go oraz załóż konto zgodnie z instrukcją [na TEJ stronie](https://support.discord.com/hc/pl/articles/360034561191-Instalacja).
+
+Aby dołączyć do serwera, uruchom aplikację Discord, a następnie kliknij na link: [https://discord.gg/X4bKCwSPZu](https://discord.gg/X4bKCwSPZu)
 
 
-## Section 2
+## Instalacja środowiska Python
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+Teraz przechodzimy do najważniejszego etapu - instalacji języka Python na naszym komputerze. Wykonuj poniższe kroki bardzo uważnie, zwracając uwagę na zaznaczane opcje instalacji - to bardzo ważne!
 
-Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+Przejdź na stronę [https://www.python.org/downloads/](https://www.python.org/downloads/), a następnie kliknij przycisk **"Download Python 3.10.5"**. Numer wersji może się różnić w zależności od tego, kiedy wykonujesz tę instrukcję - nie przejmuj się tym i pobierz mimo to.
+![](pages/uploads/images/python-install-1.png)
+
+Uruchom pobrany instalator. W pierwszym oknie **upewnij się, że pole "Add Python 3.10 to PATH" jest zaznaczone!** Następnie wybierz opcję **Install Now**.
+![](pages/uploads/images/python-install-2.png)
+
+Jeśli pojawi się okno z pytaniem "Czy chcesz zezwolić tej aplikacji na wprowadzanie zmian na tym urządzeniu?" - wybierz opcję **Tak**. 
+Poczekaj na zakończenie instalacji. W kolejnym oknie kliknij opcję "Disable path length limit".
+![](pages/uploads/images/python-install-3.png)
+Na koniec kliknij "Close".
+
+W tym momencie Python powinien już być zainstalowany. Aby to sprawdzić, otwórz menu Start, wpisz **cmd** i wciśnij Enter. Powinno pojawić się okno Wiersza Poleceń. Wpisz `python --version` i wciśnij Enter. 
+
+Jeśli pojawi się linijka z prawidłową wersją Pythona - przejdź do kolejnej części. Jeśli nie, usuń i zainstaluj Pythona ponownie, zwracając uwagę na szczegóły podane powyżej.
