@@ -20,6 +20,7 @@
   -->
 
 <!-- NAVIGATION GOES HERE -->
+[Przykłady z zajęć](pages/zajecia.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
